@@ -32,7 +32,7 @@ You can change the password in file iconmodule.vbs line 4 loop Until st="Your pa
 
 UPDATE NOTES
 
-V 0.0.5 24.05.25
+V 0.0.5 (24.05.25)
 (Extreme version) added automatic shutdown after all actions (10 seconds after rainbow screen)
 
 V 0.0.4 (24.05.25)

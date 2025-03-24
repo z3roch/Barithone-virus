@@ -25,6 +25,8 @@ MORE
 You can change the password in file iconmodule.vbs line 4 loop Until st="Your password"
 
 UPDATE NOTES
+V 0.0.3 (24.03.25)
+Fixed paceful version run bug
 
 V 0.0.2 (24.03.25)
 Fixed bugs
@@ -33,5 +35,5 @@ added app icon
 new use method
 new functions
 
-V 0.0.1 23.03.25
+V 0.0.1 (23.03.25)
 Added to GitHub

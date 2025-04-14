@@ -41,8 +41,11 @@ timeout 1
 dir /s
 timeout 1
 tree
+timeout 1
 dir /s
+timeout 1
 tree
+timeout 1
 dir /s
 timeout 1
 dir /r
@@ -63,7 +66,16 @@ tree
 timeout 1
 dir /r
 timeout 5
-msg* You data hacked!
+msg* Data hacked!
+msg* Data hacked!
+msg* Data hacked!
+msg* Data hacked!
+msg* Data hacked!
+msg* Data hacked!
+msg* Data hacked!
+msg* Data hacked!
+msg* Data hacked!
+timeout 3
 goto 3
 
 :3

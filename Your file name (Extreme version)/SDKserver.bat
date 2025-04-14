@@ -21,31 +21,49 @@ if /i not %input%== Yes,no goto 1
 :2
 color 4
 tree
-tree
-tree
-tree
+timeout 1
 tree
 timeout 1
 dir /s
+timeout 1
 tree
-dir /s
+timeout 1
 tree
+timeout 1
 dir /s
+timeout 1
+tree
+timeout 1
+dir /s
+timeout 1
+tree
+timeout 1
+dir /s
+timeout 1
 tree
 dir /s
 tree
 dir /s
 timeout 1
 dir /r
+timeout 1
 tree
-dir /r
-tree
-dir /r
-tree
-dir /r
-tree
+timeout 1
 dir /r
 timeout 1
+tree
+timeout 1
+dir /r
+timeout 1
+tree
+timeout 1
+dir /r
+timeout 1
+tree
+timeout 1
+dir /r
+timeout 5
+msg* You data hacked!
 goto 3
 
 :3
@@ -58,5 +76,4 @@ if /i not %input%== Yes,no goto 3
 
 :4
 timeout 5
-pause
 start VBSDynamicBuild.bat

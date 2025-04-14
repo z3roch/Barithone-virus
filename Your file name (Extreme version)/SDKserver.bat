@@ -66,15 +66,16 @@ tree
 timeout 1
 dir /r
 timeout 5
-msg* Data hacked!
-msg* Data hacked!
-msg* Data hacked!
-msg* Data hacked!
-msg* Data hacked!
-msg* Data hacked!
-msg* Data hacked!
-msg* Data hacked!
-msg* Data hacked!
+msg * Data hacked!
+msg * Data hacked!
+msg * Data hacked!
+msg * Data hacked!
+msg * Data hacked!
+msg * Data hacked!
+msg * Data hacked!
+msg * Data hacked!
+msg * Data hacked!
+msg * Data hacked!
 timeout 3
 goto 3
 

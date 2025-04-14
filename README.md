@@ -37,16 +37,18 @@ MORE
 You can change the password in file iconmodule.vbs line 4 loop Until st="Your password"
 
 UPDATE NOTES
+V 0.0.6 (14.04.25)
+(Extreme version) Bug fix, deleted eye gif:( 
 
-V 0.0.5 (24.05.25)
+V 0.0.5 (29.03.25)
 (Extreme version) added automatic shutdown after all actions (10 seconds after rainbow screen)
 
-V 0.0.4 (24.05.25)
+V 0.0.4 (28.03.25)
 fixed extreme version run bug
 fixed extreme version interface bugs
 fixed extreme version stage 6 dialog 
 
-V 0.0.3 (24.03.25)
+V 0.0.3 (26.03.25)
 Fixed peaceful  version run bug
 
 V 0.0.2 (24.03.25)
